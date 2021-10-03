@@ -5,3 +5,8 @@
 
 ## Esp8266 Devre(Arduino beslemeli):
 ![image](https://user-images.githubusercontent.com/61223169/135773588-37c0a930-9fd9-452a-a526-2a13e31e66f4.png)
+
+## Esp'ye Kod yollama: 
+ ![image](https://user-images.githubusercontent.com/61223169/135773668-aefb3ba9-3176-4870-9ea2-00af4eab0f0a.png)
+ 
+ * Esp'ye kod yüklemeden önce arduino içine boş bir kod dosyası yüklenmeli ve esp'ye kod atılırken reset pini toprak pinine çekilmeli.
