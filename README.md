@@ -10,3 +10,5 @@
  ![image](https://user-images.githubusercontent.com/61223169/135773668-aefb3ba9-3176-4870-9ea2-00af4eab0f0a.png)
  
  * Esp'ye kod yüklemeden önce arduino içine boş bir kod dosyası yüklenmeli ve esp'ye kod atılırken reset pini toprak pinine çekilmeli.
+ * TINKERCAD(ESP-KOD-ATILMASI): https://www.tinkercad.com/things/kXZFJJVx0wm
+ * TINKERCAD (ESP-LAMBA TASARIM): https://www.tinkercad.com/things/eewXtwLvMui
